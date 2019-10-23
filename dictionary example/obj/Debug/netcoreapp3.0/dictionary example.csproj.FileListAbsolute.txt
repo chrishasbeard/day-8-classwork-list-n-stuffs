@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\bin\Debug\netcoreapp3.0\dictionary example.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\obj\Debug\netcoreapp3.0\dictionary example.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\obj\Debug\netcoreapp3.0\dictionary example.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\obj\Debug\netcoreapp3.0\dictionary example.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\obj\Debug\netcoreapp3.0\dictionary example.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\dictionary example\obj\Debug\netcoreapp3.0\dictionary example.pdb

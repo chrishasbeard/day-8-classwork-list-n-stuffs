@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\bin\Debug\netcoreapp3.0\Whiteboard prob 2.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\obj\Debug\netcoreapp3.0\Whiteboard prob 2.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\obj\Debug\netcoreapp3.0\Whiteboard prob 2.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\obj\Debug\netcoreapp3.0\Whiteboard prob 2.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\obj\Debug\netcoreapp3.0\Whiteboard prob 2.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Whiteboard prob 2\obj\Debug\netcoreapp3.0\Whiteboard prob 2.pdb

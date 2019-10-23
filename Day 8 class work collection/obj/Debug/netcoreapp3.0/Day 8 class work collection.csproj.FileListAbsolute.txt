@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\bin\Debug\netcoreapp3.0\Day 8 class work collection.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\obj\Debug\netcoreapp3.0\Day 8 class work collection.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\obj\Debug\netcoreapp3.0\Day 8 class work collection.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\obj\Debug\netcoreapp3.0\Day 8 class work collection.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\obj\Debug\netcoreapp3.0\Day 8 class work collection.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\Day 8 class work collection\obj\Debug\netcoreapp3.0\Day 8 class work collection.pdb

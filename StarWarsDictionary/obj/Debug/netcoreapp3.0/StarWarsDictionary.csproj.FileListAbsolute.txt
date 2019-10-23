@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.pdb

@@ -1,0 +1,10 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\bin\Debug\netcoreapp3.0\ListExample1.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\obj\Debug\netcoreapp3.0\ListExample1.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\obj\Debug\netcoreapp3.0\ListExample1.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\obj\Debug\netcoreapp3.0\ListExample1.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\ListExample1\obj\Debug\netcoreapp3.0\ListExample1.pdb

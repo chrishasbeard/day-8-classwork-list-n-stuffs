@@ -1,0 +1,10 @@
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.exe
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.deps.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\bin\Debug\netcoreapp3.0\FillListExample.pdb
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\obj\Debug\netcoreapp3.0\FillListExample.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\obj\Debug\netcoreapp3.0\FillListExample.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\obj\Debug\netcoreapp3.0\FillListExample.dll
+C:\Users\Holmes HQ\source\repos\Day 8 class work collection\FillListExample\obj\Debug\netcoreapp3.0\FillListExample.pdb
